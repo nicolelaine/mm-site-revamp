@@ -2,11 +2,21 @@
 layout: page
 permalink: /
 ---
-<a href="https://github.com/osmus/dogwood"><img src="img/logo.svg" style="border:none;width:100px;"/></a>
+<!--<a href="https://github.com/osmus/dogwood"><img src="img/logo.svg" style="border:none;width:100px;"/></a>  -->
 
-# [Dogwood](https://github.com/osmus/dogwood)
+<h1>Putting the World's Vulnerable Communities on the Map</h1>
+<hr>
 
-Dogwood is the [theme](https://jekyllrb.com/docs/themes/) for the [Jekyll](https://jekyllrb.com) static site generator powering [openstreetmap.us](https://openstreetmap.us). While the content for the OpenStreetMap US website is kept internal to the organization, we've decided to open source the site's theme for the benefit of the community.
+<p>
+Each year, disasters around the world kill nearly 100,000 and affect or displace 200 million people. Many of the places where these disasters occur are literally 'missing' from open and accessible maps and first responders lack the information to make valuable decisions regarding relief efforts. Missing Maps is an open, collaborative project in which you can help to map areas where humanitarian organisations are trying to meet the needs of people who live at risk of disasters and crises.
+</p>
+
+<h2>How we work</h2>
+<!--Insert image here-->
+
+
+
+<!-- Dogwood is the [theme](https://jekyllrb.com/docs/themes/) for the [Jekyll](https://jekyllrb.com) static site generator powering [openstreetmap.us](https://openstreetmap.us). While the content for the OpenStreetMap US website is kept internal to the organization, we've decided to open source the site's theme for the benefit of the community.
 
 Dogwood pushes the envelope of what's possible with static site generators. It supports complex sites with thousands of interconnected, customizable pages, each with their own requirements. For example, you can make a page for a person that links to and from posts they've written, event they've spoken at, and projects they're a part of.
 
@@ -82,4 +92,4 @@ The theme is available as open source under the terms of the [MIT License](https
 
 * Dogwood was originally designed and developed by [Quincy Morgan](https://github.com/quincylvania) under contract to OpenStreetMap US
 * Most icons by [FontAwesome](https://fontawesome.com)
-* Thank you to the Jekyll team and to everyone who believes in open software and knowledge
+* Thank you to the Jekyll team and to everyone who believes in open software and knowledge  -->

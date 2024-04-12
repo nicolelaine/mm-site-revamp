@@ -1,6 +1,6 @@
 ---
-title: Dogwood Blossoms
-author: Walter Woodman
+title: Participatory Mapping taken one step further - The new version of the Sketch Map Tool
+author: Melanie Eckle, Alec Schulze-Eckle
 image: /img/posts/white-dogwoods.jpg
 tags:
   - Dogwoods

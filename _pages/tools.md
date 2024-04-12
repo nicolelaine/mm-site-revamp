@@ -1,10 +1,11 @@
 ---
-title: Plants
+title: Get Involved
 links:
-  - link: /plants/dogwoods/
-  - link: /plants/azaleas/
+  - link: /tools/MapSwipe/
+  - link: /tools/tasking-manager/
 ---
-Here are the plants we care most about.
+
+There are two main ways to contribute map data for humanitarian purposes - MapSwipe and the Tasking Manager. Explore both of these tools below! :) 
 
 {::nomarkdown}
 {% assign subitems="" | split: ',' -%}

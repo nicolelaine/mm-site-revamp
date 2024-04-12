@@ -3,8 +3,8 @@ title: Missing Maps
 permalink: /:title/
 # Include "future" posts so that upcoming events will display. Posts cannot be scheduled to automatically
 # publish at a certain time with Jekyll alone.
-logo: /img/logo.svg
-logo_mono: /img/logo-mono.svg
+logo: /img/MM_white_typography.svg
+# logo_mono: /img/logo-mono.svg
 future: true
 # timezone: America/New_York
 # github: osmus/dogwood
@@ -15,11 +15,11 @@ facebook: TheMissingMaps
 instagram: themissingmaps
 linkedin: company/missing-maps
 links:
-  - link: /plants/
+  - link: /tools/
   - link: /people/
   - link: /blog/
   - link: https://github.com/osmus/dogwood
-    label: Use This Theme!
+    label: Register Your Event!
     a_class: button bordered
 plugins:
   - jekyll-archives
