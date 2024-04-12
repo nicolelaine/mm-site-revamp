@@ -18,7 +18,7 @@ links:
   - link: /tools/
   - link: /people/
   - link: /blog/
-  - link: https://github.com/osmus/dogwood
+  - link: /events/
     label: Register Your Event!
     a_class: button bordered
 plugins:
