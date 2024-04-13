@@ -3,9 +3,13 @@ title: Get Involved
 links:
   - link: /tools/MapSwipe/
   - link: /tools/tasking-manager/
+  - link: /tools/validation/
+  - link: /tools/field-mapping/
+
+
 ---
 
-There are two main ways to contribute map data for humanitarian purposes - MapSwipe and the Tasking Manager. Explore both of these tools below! :) 
+There are lots of way to contribute map data for humanitarian purposes - explore below and have fun!
 
 {::nomarkdown}
 {% assign subitems="" | split: ',' -%}

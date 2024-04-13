@@ -60,5 +60,5 @@ In May 2023, the Sketch Map tool was presented and used in a practical exercise 
 
 The application examples presented here represent only a small part of the current projects in which the Sketch Map Tool has already been deployed. Due to the Sketch Map Tool’s functions and the easy handling of the tool, the HeiGIT team receives consistent information and ideas about applications and further development from the Red Cross and Red Crescent Movement and beyond. In cooperation with our partners, we are also currently conducting numerous workshops and training on the Sketch Map Tool and planning updates and expansions for the application.
 
-On Friday, June 9th at 4:30 PM EST, the Sketch Map Tool was presented at the State of the Map US 2023, the annual OSM conference in the USA, with additional information available here.
+On Friday, June 9th at 4:30 PM EST, the Sketch Map Tool was presented at the State of the Map US 2023, the annual OSM conference in the USA, with additional information available <a href="https://2023.stateofthemap.us/">here.</a>
 
