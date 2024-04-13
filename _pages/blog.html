@@ -11,3 +11,8 @@ dropdown_links:
 <div class="section">
   {% include item_list.html items=items %}
 </div>
+
+{% assign items=site.people %}
+<div class="section">
+  {% include people_list.html people=items gallery=true %}
+</div>
