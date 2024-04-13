@@ -1,6 +1,6 @@
 ---
 title: MapSwipe
-image: /img/mapswipe/ms-logo.png
+image: /img/mapswipe/test.png
 blurb: MapSwipe harnesses the collective strength of volunteers to actively contribute to geospatial data projects.
 ---
 {::nomarkdown}
@@ -8,7 +8,7 @@ blurb: MapSwipe harnesses the collective strength of volunteers to actively cont
 {:/nomarkdown}
 
 
-With your mobile phone, you can play a part in helping communities around the world, one swipe at a time.
+With your mobile phone (and soon to be web app!), you can play a part in helping communities around the world, one swipe at a time.
 
 Around the world, millions of individuals are affected by disasters, disease, and conflict. First responders working with these communities often have to cover large areas, but lack the data necessary for an efficient, effective response. Through MapSwipe, volunteers pinpoint where critical infrastructure and populations are located, allowing mappers to focus only on areas where they know features need to be mapped.
 
@@ -27,6 +27,10 @@ MapSwipe is very intuitive. Mappers follow these steps:
    <li> Tap three times to identify bad / no imagery or cloud cover. The square will turn red. </li>
 </ol>
 
-Since its start in 2015, MapSwipe has scaled to 29,000 users mapping 600,000 km2 (larger than the area of Kenya). MapSwipe is volunteer-driven and community-led. Any organization or mapping community can request to use MapSwipe to help with their activities on the ground. To learn more check out the <a href="https://mapswipe.org">MapSwipe website</a> . If you’d like to request a project, email info@mapswipe.org. Happy swiping!
+Since its start in 2015, MapSwipe has scaled to 29,000 users mapping 600,000 km2 (larger than the area of Kenya). MapSwipe is volunteer-driven and community-led. Any organization or mapping community can request to use MapSwipe to help with their activities on the ground. To learn more check out the <a href="https://mapswipe.org">MapSwipe website</a> . If you’d like to request a project, <a href="mailto:info@mapswipe.org">email MapSwipe</a>. 
+
+<button onclick="window.open('https://mapswipe.org', '_blank')" style="font-size: 16px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">VISIT MAPSWIPE WEBSITE</button>
+
+Happy swiping!
 
 

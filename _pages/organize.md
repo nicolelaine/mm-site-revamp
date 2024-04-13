@@ -1,12 +1,18 @@
 ---
-title: Host an Event
+title: Organize an Event
 links:
   - link: /organize/planning-checklist/
+  - link: /organize/event-day-checklist/
   - link: /organize/training-materials/
+
 
 ---
 
 A mapathon is a great opportunity for volunteers to digitally connect and create urgently needed data for communities around the world so that local and international decision-makers can use these maps and data to better respond to crises affecting these areas. Up-to-date maps are important for the success of many humanitarian initiatives around the world in responding to disasters. Through Missing Maps, you can volunteer your time to help inform these maps, and have a real impact on the delivery of healthcare and other services in these communities. Check out the video below to learn more about what a mapathon is, and check out our resources on how to host one below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAcsCmvG2hs?si=qWqxjKu72pEvmcbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njxePdKn1pI?si=jXbxDDg_DLAzCDuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # Thinking of hosting a large event?
@@ -16,6 +22,7 @@ We love to welcome new mappers to Missing Maps, but it is important to remember 
 
 ### <a href="/organize/planning-checklist">Click Here for the Planning Checklist</a>
 
+### <a href="/organize/event-day-checklist">Click Here for the Event Day Checklist</a>
 
 
 

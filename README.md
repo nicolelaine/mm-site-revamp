@@ -9,6 +9,8 @@ permalink: /
 
 <p>Each year, disasters around the world kill nearly 100,000 and affect or displace 200 million people. Many of the places where these disasters occur are literally 'missing' from open and accessible maps and first responders lack the information to make valuable decisions regarding relief efforts. Missing Maps is an open, collaborative project in which you can help to map areas where humanitarian organisations are trying to meet the needs of people who live at risk of disasters and crises.</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wEEnOqmVfqM?si=76V22OilwpWkOa9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2>Who we are</h2>
 
 <p>
@@ -18,8 +20,8 @@ Missing Maps is a project led by a collective of organizations working towards a
 
 <h2>Objectives</h2>
 <ul>
-   <li> To map areas where people live at risk of disasters and crises by contributing to OpenStreetMap (OSM) so that individuals, communities and organizations can use the data and maps to better prepare and respond.</li>
-   <li>To support OpenStreetMap , specifically the Humanitarian OpenStreetMap Team (HOT), in developing technologies, skills, workflows, and communities.</li>
+   <li> To map areas where people live at risk of disasters and crises by contributing to <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> (OSM) so that individuals, communities and organizations can use the data and maps to better prepare and respond.</li>
+   <li>To support <a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a>, specifically the <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> (HOT), in developing technologies, skills, workflows, and communities.</li>
 </ul>
 
 <h2>Ethics</h2>
@@ -28,11 +30,11 @@ Missing Maps is a project led by a collective of organizations working towards a
 
 <p>People always come before data. All Missing Maps activities will take into account the best interests and rights of the community and individuals, before adding data to OSM.</p>
 
-<p>All Missing Maps project activities are guided by the humanitarian principles of humanity, neutrality, impartiality and independence. We follow the HOT code of conduct.</p>
+<p>All Missing Maps project activities are guided by the humanitarian principles of humanity, neutrality, impartiality and independence. We follow the <a href="https://www.hotosm.org/code-of-conduct" target="_blank">HOT code of conduct.</a></p>
 
 <h3>Open</h3>
 
-<p>Under the ODbL license: Respecting the guidelines and best practices of the OpenStreetMap Foundation (OSMF) and OSM, Missing Maps project member organizations ensure that all non-sensitive data gathered under the Missing Maps project banner will be free, open and available for use.</p>
+<p>Under the <a href="https://opendatacommons.org/licenses/odbl/" target="_blank">ODbL license</a>: Respecting the guidelines and best practices of the OpenStreetMap Foundation (OSMF) and OSM, Missing Maps project member organizations ensure that all non-sensitive data gathered under the Missing Maps project banner will be free, open and available for use.</p>
 
 Open to all tool creators: Any creation of Missing Maps project methodology, tools, software or technology by Missing Maps project member organizations will be open source and enable global volunteer network contribution.
 
@@ -49,7 +51,9 @@ Missing Maps project activities will build sustainable local capacity, and will 
 The Missing Maps community will work together to share, develop, improve and implement mapping and data collection processes.
 
 Missing Maps member organizations will support, grow and learn from the global network of digital humanitarian volunteers.
-Quality
+
+
+<h3>Quality</h3>
 
 Missing Maps member organizations will ensure that quality assurance and control processes are in place for all of their activities. We are cautious about rapid data collection without significant local participation, and always make efforts to ensure local access.
 
@@ -59,9 +63,8 @@ Membership of the the Missing Maps Project is open to any NGO, educational estab
 
 If you are interested in putting an organisation forward for membership, please contact us using the form below.
 
-<a href="mailto:partnerships@hotosm.org">
-<button>CONTACT US ABOUT BECOMING A MEMBER</button>
-</a>
+<button onclick="window.open('mailto:partnerships@hotosm.org', '_blank')" style="font-size: 16px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">CONTACT US ABOUT BECOMING A MEMBER</button>
+
 
 <h2>Communities</h2>
 
@@ -69,9 +72,8 @@ We appreciate that Missing Maps activities are often community-organized, whethe
 
 This led us to make available an editable version of the Missing Maps logo, so the communities can adapt it adding their country, or city.
 
-<a href="https://drive.google.com/drive/folders/1U80TG2elfc9JNnLoKVmbU1mDcK4zCaw6">
-<button>CUSTOMIZE OUR LOGO FOR YOUR GROUP</button>
-</a>
+<button onclick="window.open('https://drive.google.com/drive/folders/1U80TG2elfc9JNnLoKVmbU1mDcK4zCaw6', '_blank')" style="font-size: 16px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">CUSTOMIZE OUR LOGO FOR YOUR GROUP</button>
+
 
 <h3>About</h3>
 

@@ -20,8 +20,10 @@ links:
   - link: /contribute/
   - link: /organize/
   - link: /blog/
-  - link: /events/
-    label: Register Your Event!
+  - link: /support/
+  - link: /stats/
+  - link: /events
+    label: Missing Maps Events
     a_class: button bordered
 plugins:
   - jekyll-archives
