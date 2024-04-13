@@ -15,14 +15,14 @@ Validation is an important part of the Missing Maps process. Getting a second, t
 
 #### 1. Identify if becoming a validator is right for you.
 
-Validating isn’t for everyone; validation requires patience and attention to detail. Some experience mapping in OpenStreetMap and HOT projects is a must, but don’t feel that you need to be an expert to start. If you’re new to Missing Maps or OpenStreetMap mapping in general, head over to our resources for new mappers. Check out our <a href="../../assets/downloads/en/MissingMaps_validation_faq_en.pdf">Validation FAQs</a> to gain some insight on what validating entails.
+Validating isn’t for everyone; validation requires patience and attention to detail. Some experience mapping in OpenStreetMap and HOT projects is a must, but don’t feel that you need to be an expert to start. If you’re new to Missing Maps or OpenStreetMap mapping in general, head over to our resources for new mappers. Check out our <a href="../../assets/downloads/en/MissingMaps_validation_faq_en.pdf" target="_blank">Validation FAQs</a> to gain some insight on what validating entails.
 
 
 If you’ve mapped before using iD Editor, make sure to check out our advanced mapping section to get started with JOSM first. Validating in iD Editor is possible, but it’s best to use JOSM.
 
 #### 2. Build your skills.
 
-Becoming a more efficient mapper is crucial to becoming a validator. The <a href="https://josm.openstreetmap.de/">JOSM Editor</a> is a customizable editor for OpenStreetMap with a number of tools and plugins to make mapping and validating easier! Check out this guide to validation using the JOSM editor. For instruction setting up JOSM, you can also head over to <a href="https://learnosm.org/en/josm/">LearnOSM.</a>
+Becoming a more efficient mapper is crucial to becoming a validator. The <a href="https://josm.openstreetmap.de/" target="_blank"> JOSM Editor</a> is a customizable editor for OpenStreetMap with a number of tools and plugins to make mapping and validating easier! Check out this guide to validation using the JOSM editor. For instruction setting up JOSM, you can also head over to <a href="https://learnosm.org/en/josm/" target="_blank">LearnOSM.</a>
 
 While validating in JOSM is preferred, you can also begin to improve the map through iD Editor. Check out this video to learn some of the things to look for:
 
@@ -31,7 +31,7 @@ While validating in JOSM is preferred, you can also begin to improve the map thr
 
 #### 3. Collaborate as part of the broader community.
 
-Different validators have different techniques for validating. Join the conversation on the <a href="http://slack.hotosm.org/">HOTOSM Slack</a> validation channel or reach out on the <a href="https://lists.openstreetmap.org/listinfo/hot">HOT Mailing List</a>. Contribute resources that you find helpful and give back to the community! Being a part of the Missing Maps community means working together in a positive and inclusive environment; when giving feedback to mappers, be sure to keep a positive tone and stay mindful of their contributions and desire to help - it’s what keeps OSM growing!
+Different validators have different techniques for validating. Join the conversation on the <a href="http://slack.hotosm.org/" target="_blank">HOTOSM Slack</a> validation channel or reach out on the <a href="https://lists.openstreetmap.org/listinfo/hot" target="_blank">HOT Mailing List</a>. Contribute resources that you find helpful and give back to the community! Being a part of the Missing Maps community means working together in a positive and inclusive environment; when giving feedback to mappers, be sure to keep a positive tone and stay mindful of their contributions and desire to help - it’s what keeps OSM growing!
 
 #### 4. Validation FAQs
 
@@ -45,7 +45,7 @@ Yes you can, but it is a lot more difficult to catch all the errors. JOSM Editor
 
 ##### How do I get started validating?
 
-The first thing you need to do is learn about what validating is. The <a href="https://wiki.openstreetmap.org/wiki/Tasking_Manager/Validating_data">Validating Data</a> wiki is a great place to start. You’ll want to learn to edit using the <a href="https://josm.openstreetmap.de/">JOSM Editor</a>. JOSM has a number of very useful validation tools which can make the process much easier and more efficient.
+The first thing you need to do is learn about what validating is. The <a href="https://wiki.openstreetmap.org/wiki/Tasking_Manager/Validating_data" target="_blank">Validating Data</a> wiki is a great place to start. You’ll want to learn to edit using the <a href="https://josm.openstreetmap.de/" target="_blank">JOSM Editor</a>. JOSM has a number of very useful validation tools which can make the process much easier and more efficient.
 
 ##### What are the steps when validating a project?
 
@@ -57,7 +57,7 @@ Before you start validating check out the instructions tab on the project. See w
 
 ##### How should I be tagging roads?
 
-Typically, most HOTOSM tasks will request that you follow the <a href="https://wiki.openstreetmap.org/wiki/Highway_Tag_Africa">Highway Tag Africa Wiki</a>. This is due to the road conditions in African countries not always corresponding to their economic and social role. A road typology should be based on the road importance and not on the surface or the visual appearance of a road.
+Typically, most HOTOSM tasks will request that you follow the <a href="https://wiki.openstreetmap.org/wiki/Highway_Tag_Africa" target="_blank">Highway Tag Africa Wiki</a>. This is due to the road conditions in African countries not always corresponding to their economic and social role. A road typology should be based on the road importance and not on the surface or the visual appearance of a road.
 
 ##### Should I just review the task and invalidate or should I finish the task and validate?
 

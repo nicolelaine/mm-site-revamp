@@ -27,7 +27,7 @@ MapSwipe is very intuitive. Mappers follow these steps:
    <li> Tap three times to identify bad / no imagery or cloud cover. The square will turn red. </li>
 </ol>
 
-Since its start in 2015, MapSwipe has scaled to 29,000 users mapping 600,000 km2 (larger than the area of Kenya). MapSwipe is volunteer-driven and community-led. Any organization or mapping community can request to use MapSwipe to help with their activities on the ground. To learn more check out the <a href="https://mapswipe.org">MapSwipe website</a> . If you’d like to request a project, <a href="mailto:info@mapswipe.org">email MapSwipe</a>. 
+Since its start in 2015, MapSwipe has scaled to 29,000 users mapping 600,000 km2 (larger than the area of Kenya). MapSwipe is volunteer-driven and community-led. Any organization or mapping community can request to use MapSwipe to help with their activities on the ground. To learn more check out the <a href="https://mapswipe.org" target="_blank">MapSwipe website</a>. If you’d like to request a project, <a href="javascript:void(0);" onclick="window.open('mailto:info@mapswipe.org', '_blank')">email MapSwipe!</a>
 
 <button onclick="window.open('https://mapswipe.org', '_blank')" style="font-size: 16px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">VISIT MAPSWIPE WEBSITE</button>
 
