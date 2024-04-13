@@ -1,9 +1,10 @@
 ---
 title: Organize an Event
 links:
+  - link: /organize/training-materials/
   - link: /organize/planning-checklist/
   - link: /organize/event-day-checklist/
-  - link: /organize/training-materials/
+
 
 
 ---
@@ -17,7 +18,7 @@ A mapathon is a great opportunity for volunteers to digitally connect and create
 
 # Thinking of hosting a large event?
 
-We love to welcome new mappers to Missing Maps, but it is important to remember we are part of a much larger OpenStreetMap (OSM) community. The data produced in OSM, whether by us or other mappers, is used in real time. Therefore, it is important that we properly support these new mappers. Without proper training, supervision and data clean-up, new mappers can have a lot of fun but leave a huge mess behind in OSM! Because of this, we highly recommend you start with smaller events and build your capacity before holding big mapathons. We suggest a first time mapathon host to start by organizing an event for 20 -25 participants. If you are considering a larger event (for 50+ participants) and do not have time to build your training capacity, please consider hosting a <a href="https://mapswipe.org">MapSwipe event</a> instead. These events can more easily involve larger groups responsibly.
+We love to welcome new mappers to Missing Maps, but it is important to remember we are part of a much larger OpenStreetMap (OSM) community. The data produced in OSM, whether by us or other mappers, is used in real time. Therefore, it is important that we properly support these new mappers. Without proper training, supervision and data clean-up, new mappers can have a lot of fun but leave a huge mess behind in OSM! Because of this, we highly recommend you start with smaller events and build your capacity before holding big mapathons. We suggest a first time mapathon host to start by organizing an event for 20 -25 participants. If you are considering a larger event (for 50+ participants) and do not have time to build your training capacity, please consider hosting a <a href="https://mapswipe.org">MapSwipe</a> event instead. These events can more easily involve larger groups responsibly.
 
 
 ### <a href="/organize/planning-checklist">Click Here for the Planning Checklist</a>

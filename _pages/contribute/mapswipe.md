@@ -15,7 +15,7 @@ Around the world, millions of individuals are affected by disasters, disease, an
 MapSwipe is an open-source mobile app that is making mapping around the world more coordinated and efficient. Volunteers swipe through satellite images looking for features (ie: buildings, roadways, waterways, etc.) and tap once when they have located them. Each set of imagery is viewed by at least three different individuals to create a mechanism for internal validation of results. We believe that anyone, anywhere should be able to contribute to the Missing Maps project.
 
 
-<h2>How to use MapSwipe</h2>
+## How to use MapSwipe
 
 MapSwipe is very intuitive. Mappers follow these steps:
 

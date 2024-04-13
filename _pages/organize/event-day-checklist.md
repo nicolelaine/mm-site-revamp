@@ -3,15 +3,12 @@ title: Event Day Checklist
 
 ---
 
-Be prepared on the day of your event with this event day checklist
 
-### Event Day Checklist
-
-<input type="checkbox"/> Download a complete Step-by-Step Guide to Hosting a Mapathon from Training and Event Materials.
+Download the <a href="https://drive.google.com/drive/folders/1gXkvuQNRhfyOVv6XjmncFFUIK4m_yCTb">complete Step-by-Step Guide to Hosting a Mapathon</a>. 
 
 <input type="checkbox"/> Set up room
 
-<input type="checkbox"/> Test wifi and Tasking Manager access on both pc and mac: note, the Tasking Manager is not compatible with Internet Explorer
+<input type="checkbox"/> Test wifi and <a href="https://tasks.hotosm.org/" target="_blank">Tasking Manager</a> access on both pc and mac: note, the Tasking Manager is not compatible with Internet Explorer
 
 <input type="checkbox"/> Tape extension cords to the floor for safety
 

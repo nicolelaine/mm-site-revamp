@@ -73,13 +73,13 @@ Timely, positive, and constructive. Many projects are mapped by beginners at map
 
 ##### When leaving a comment, please tag the mapper in the comment using the “@” key. See some examples of useful comments below:
 
-    Well-mapped task (Validated): Hi @user, thanks for contributing! Everything here looks great! 
+ - Well-mapped task (Validated): Hi @user, thanks for contributing! Everything here looks great! 
     
-    When a very new mapper is good, let them know! Good work @user. You are correctly identifying the buildings/roads from the background imagery and mapping them at the correct size and shape. Thank you for your time (or Thank you for contributing to this Project). Please keep mapping!
+ - When a very new mapper is good, let them know! Good work @user. You are correctly identifying the buildings/roads from the background imagery and mapping them at the correct size and shape. Thank you for your time (or Thank you for contributing to this Project). Please keep mapping!
 
-    Okay-mapped task (Validated): Hi @user, thanks for contributing! I found a few additional buildings/roads that could be mapped here, so I went ahead and mapped them. Also, please be sure to square your buildings, which can be done by pressing `Q` in both iD editor and JOSM. I finished everything up here. Thanks again!
+ - Okay-mapped task (Validated): Hi @user, thanks for contributing! I found a few additional buildings/roads that could be mapped here, so I went ahead and mapped them. Also, please be sure to square your buildings, which can be done by pressing `Q` in both iD editor and JOSM. I finished everything up here. Thanks again!
 
-    Poorly-mapped task (Invalidated): Hi @user, thanks for contributing! It looks like there are quite a few buildings left to map here. Make sure if the task isn’t complete, to click "No" under the Task Status in response to "Is this task completely mapped?". If you have questions about what should be mapped, check out the instructions tab. Please reach out if you have any questions!
+ - Poorly-mapped task (Invalidated): Hi @user, thanks for contributing! It looks like there are quite a few buildings left to map here. Make sure if the task isn’t complete, to click "No" under the Task Status in response to "Is this task completely mapped?". If you have questions about what should be mapped, check out the instructions tab. Please reach out if you have any questions!
 
 ##### Should I validate roads on a buildings project?
 
@@ -96,5 +96,34 @@ Where possible, it is encouraged to fix poorly drawn features rather than deleti
 ##### I notice that some projects limit who can validate. What does this mean?
 
 Some projects are available for validation by intermediate or advanced mappers. Other projects require that you join a validation team. To the right under the Teams and Permissions section in the Tasking Manager is a link to join the teams that are approved for that specific project. HOT manages a global team of validators that many of the response projects on the Tasking Manager require you to join. To join, please follow the instructions below or use this link to connect with the team manager.
+
+
+## Data Quality Tools for Project Managers
+
+Are you managing projects using a tasking manager? Are you curious to see how the mapping is going but don’t want to wait until your mappers finish the project? Try using these tools:
+
+### OSMCha
+
+<a href="https://osmcha.org/" target="_blank">OSMCha</a> short for OpenStreetMap Changeset Analyzer, is a web tool to help mappers analyze and review data changes to OSM. The objective of the tool is to help detect vandalism and act on bad changes to the map data. If using the HOT-TM, you’ll find this tool at the bottom of your project page.
+
+### Osmose
+
+<a href="https://wiki.openstreetmap.org/wiki/Osmose" target="_blank">Osmose</a> is a quality assurance tool that detects issues in OpenStreetMap data by showing anomalies. It is also useful for integrating third-party data sets by conflation.
+
+### Ohsome
+
+The <a href="https://docs.ohsome.org/ohsome-api/v1/" target="_blank">ohsome API</a> is a generic web API for analysing OSM history data. The ohsome API lets you analyze the rich data source of the OpenStreetMap history and is based on the OpenStreetMap History Database (OSHDB). You can either perform analyses using a dashboard-like application, or use the ohsome API directly and work with its CSV, JSON or GeoJSON responses.
+
+### CartONG Mapathon Dashboard
+
+Looking for another way to track your group’s edits? CartONG has you <a href="http://mapathon.cartong.org/" target="_blank">covered</a>.
+
+### MapRoulette
+
+<a href="https://maproulette.org/" target="_blank">MapRoulette</a> is a gamified approach to fixing OSM bugs that breaks common OpenStreetMap data problems into micro tasks. This tool is best used after your event.
+
+From everyone at Missing Maps, thanks for keeping your eye on data quality.
+
+Happy Mapping!
 
 

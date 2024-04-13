@@ -1,10 +1,11 @@
 ---
 title: Participatory Mapping taken one step further - The new version of the Sketch Map Tool
-author: Melanie Eckle, Alec Schulze-Eckle
-image: /img/posts/sketch-map-blog.jpg
+author: Alec Schulze-Eckle
+author: Melanie Eckle
+image: /img/posts/2023-07-14-sketch-map-blog.jpg
 tags:
-  - Dogwoods
-  - Azaleas
+  - HeiGIT
+  - Sketch Map Tool
 ---
 
 
@@ -41,8 +42,6 @@ Sketch maps can be used for local mapping directly in the areas of interest and 
 # Step 3: Digitalization
 
 After data collection, the marked sketch maps can be photographed or scanned and uploaded to the Sketch Map Tool. This is followed by automatic georeferencing as well as identification and digitization of all markings. The Sketch Map Tool then makes the complete map and all markers available for download in digital formats. In more technical terms, the tool will start the automatic georeferencing of the maps and color detection of the marked features. These results can be downloaded as geodata (GeoTIFF and GeoJson) and further analyzed in the Geographic Information System software of your choice. This step requires hardly any technical knowledge and avoids much manual work and thus valuable time. In addition, the analysis of the recorded data and a simple link to other data sources such as satellite data or flood models is made possible. The Sketch Map Tool offers a way to bridge the gap between local knowledge and experience and more abstract geographic simulations and modelling.
-
-Sketch Map of Risk Areas from a project in Colombia (Letzner 2023)
 
 ## Selected use cases of the Sketch Map Tool
 

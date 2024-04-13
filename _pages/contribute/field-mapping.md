@@ -44,7 +44,7 @@ During data collection, people sometimes get caught up in the mapping and forget
 
 ### Who will contribute:
 
-Are there already mappers in the area? Have you reached out and included them in your work? Are you from this community? If not, who will be your local partner(s)? How will you tell the community about your work? OSM Flyers
+Are there already mappers in the area? Have you reached out and included them in your work? Are you from this community? If not, who will be your local partner(s)? How will you tell the community about your work? <a href="https://wiki.openstreetmap.org/wiki/Category:Flyer" target="_blank">OSM Flyers</a>
 
 ### Priority:
 
@@ -62,12 +62,12 @@ What do you want to capture, how do you want to capture this, how long will this
 
 Missing Maps does not manage data collection tools, but these are some of our favorite resources from the OSM community:
 
-   - Open Data Kit - Open Data Kit was started to make mobile data collection tools for resource-limited settings. Over the last 13 years, the project has produced two tool suites (ODK, ODK-X) and has become home to a community of users, implementers and developers.
-   - KoBo - KoBoToolbox is a suite of tools for field data collection for use in challenging environments.
-  -  Organic Maps - a free, open source mobile app that provides offline maps based on OpenStreetMap data.
-  -  OSMAnd - a Mapping and navigation map with optional offline capacity.
-  -  Portable OpenStreetMap (POSM) - a hardware/software integration developed to conduct mapping in the field when internet and cellular connectivity is unreliable.
-   - OpenDroneMap - sustainable solutions for collecting, processing, analyzing and displaying aerial data while supporting the communities built around them.
+   - <a href="https://opendatakit.org/" target="_blank">Open Data Kit</a> - Open Data Kit was started to make mobile data collection tools for resource-limited settings. Over the last 13 years, the project has produced two tool suites (<a href="https://getodk.org/" target="_blank">ODK</a>, <a href="https://docs.odk-x.org/app-designer-intro/" target="_blank">ODK-X</a>) and has become home to a community of users, implementers and developers.
+   - <a href="https://www.kobotoolbox.org/" target="_blank">KoBo</a> - KoBoToolbox is a suite of tools for field data collection for use in challenging environments.
+  -  <a href="https://organicmaps.app/" target="_blank">Organic Maps</a> - a free, open source mobile app that provides offline maps based on OpenStreetMap data.
+  -  <a href="https://osmand.net/" target="_blank">OSMAnd</a> - a Mapping and navigation map with optional offline capacity.
+   - <a href="https://www.opendronemap.org/" target="_blank">OpenDroneMap</a> - sustainable solutions for collecting, processing, analyzing and displaying aerial data while supporting the communities built around them.
+   - <a href="https://openaerialmap.org/" target="_blank">OpenAerialMap</a> - OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services. Download or contribute imagery to the growing commons of openly licensed imagery.
 
 ## Processing
 
