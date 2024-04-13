@@ -5,6 +5,9 @@ links:
   - link: /contribute/tasking-manager/
   - link: /contribute/validation/
   - link: /contribute/field-mapping/
+  - link: /contribute/advanced-mapping/
+  - link: /contribute/mapping-guides/
+
 
 
 ---

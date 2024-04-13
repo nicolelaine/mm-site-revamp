@@ -87,6 +87,13 @@ List of founders with icons here.
 
 List of members with icons here.
 
+<h4>OpenStreetMap</h4>
+
+<a href="https://www.openstreetmap.org" target="_blank">OpenStreetMap</a> is the volunteer-driven open data mapping platform which makes all of this possible, supported by the not-for-profit <a href="https://osmfoundation.org/" target="_blank">OpenStreetMap Foundation</a>.
+
+Icon shown here.
+
+
 
 
 <!-- Dogwood is the [theme](https://jekyllrb.com/docs/themes/) for the [Jekyll](https://jekyllrb.com) static site generator powering [openstreetmap.us](https://openstreetmap.us). While the content for the OpenStreetMap US website is kept internal to the organization, we've decided to open source the site's theme for the benefit of the community.
