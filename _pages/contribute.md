@@ -1,10 +1,10 @@
 ---
 title: Get Involved
 links:
-  - link: /tools/MapSwipe/
-  - link: /tools/tasking-manager/
-  - link: /tools/validation/
-  - link: /tools/field-mapping/
+  - link: /contribute/mapswipe/
+  - link: /contribute/tasking-manager/
+  - link: /contribute/validation/
+  - link: /contribute/field-mapping/
 
 
 ---
