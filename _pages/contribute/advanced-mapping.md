@@ -1,6 +1,6 @@
 ---
 title: Advanced Mapping
-image: /img/advanced-mapping/josm-screenshot-logo-hamlet.png
+image: /img/advanced-mapping/josm.png
 blurb: Time to upskill your mapping? Start here.
 
 
