@@ -1,7 +1,8 @@
 ---
 title: Participatory Mapping taken one step further - The new version of the Sketch Map Tool
-author: Alec Schulze-Eckle
-author: Melanie Eckle
+author: 
+  - Melanie Eckle
+  - Alec Schulze-Eckle
 image: /img/posts/2023-07-14-sketch-map-blog.jpg
 tags:
   - HeiGIT
