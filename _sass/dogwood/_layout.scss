@@ -66,7 +66,7 @@ a:hover, a:active {
     color: $primary-color-alt;
 
     &:hover, &:active {
-      color: color.scale($primary-color-alt, $lightness: 20%);
+      color: lighten($primary-color-alt, 20%);
     }
   }
   hr {
